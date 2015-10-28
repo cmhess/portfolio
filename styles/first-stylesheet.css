@@ -1,4 +1,51 @@
-<style> 
+figcaption {
+  text-decoration: underline;
+  color: dodgerblue;
+}
+p {
+  color: firebrick;
+  font-family: "Helvetica";
+  font-size: 18px;
+}
+footer {
+  border: 1px solid black;
+  padding: 1em 1em 2em;
+}
 body {
-+      background-color: aqua;
-+    }
+  background-color: seashell;
+  width: 60%;
+  margin: auto;
+  border: 1px solid black;
+  outline: black dotted thick;
+  text-indent: 25px;
+  padding: 2em 2em 4em;
+}
+h3 {
+  text-align: center;
+}
+img {
+  width: 80%;
+  align-content: center;
+  margin: auto;  
+}
+h1 {
+  text-align: center;
+} 
+a:visited {
+    color: cadetblue;
+}
+a:hover {
+    color: darkgreen;
+}
+img:hover {
+  border: 2px solid red; 
+}
+h3:hover {
+  font-family: cursive;
+}
+h2 {
+  color: lightcoral;
+}
+h1:hover {
+  text-shadow: 0 0 5px red;
+}
