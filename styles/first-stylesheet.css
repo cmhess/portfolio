@@ -4,48 +4,40 @@ figcaption {
 }
 p {
   color: firebrick;
-  font-family: "Helvetica";
+  font-family: 'Droid Sans', sans-serif;
   font-size: 18px;
 }
 footer {
-  border: 1px solid black;
   padding: 1em 1em 2em;
+  clear: both;
 }
 body {
-  background-color: seashell;
+  background-color: #DB8E51;
   width: 60%;
   margin: auto;
-  border: 1px solid black;
-  outline: black dotted thick;
   text-indent: 25px;
   padding: 2em 2em 4em;
 }
 h3 {
   text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+  color: #663827;
 }
 img {
-  width: 80%;
+  width: 60%;
   align-content: center;
   margin: auto;  
 }
 h1 {
   text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+  color: #994C29;
 } 
 a:visited {
-    color: cadetblue;
+    color: #854E2C;
 }
 a:hover {
-    color: darkgreen;
+    color: #A6713D;
 }
-img:hover {
-  border: 2px solid red; 
-}
-h3:hover {
-  font-family: cursive;
-}
-h2 {
-  color: lightcoral;
-}
-h1:hover {
-  text-shadow: 0 0 5px red;
-}
+
+
