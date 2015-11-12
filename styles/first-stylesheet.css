@@ -16,33 +16,28 @@ h4 {
   font-family: 'Droid Sans', sans-serif;
   color: #994C29;
 }
+img {
+  width: 60%;
+  align-content: center;
+  margin: auto;  
+} 
 figcaption {
   color: #854E2C;
-  text-align: justify;
+  text-align: left;
+}
+body {
+  width: 60%;
+  margin: auto;
+  text-indent: 25px;
+  background-color: #DB8E51;
 }
 p {
   color: #663827;
   font-family: 'Droid Sans', sans-serif;
   font-size: 18px;
 }
-footer {
-  padding: 1em 1em 2em;
-  clear: both;
-}
-body {
-  width: 60%;
-  margin: auto;
-  text-indent: 25px;
-  padding: 2em 2em 4em;
-  background-color: #DB8E51;
-}
-img {
-  width: 60%;
-  align-content: center;
-  margin: auto;  
-} 
-a {
-  padding: 2em;
+body a {
+  padding-top: 2em;
 }
 a:visited {
     color: #854E2C;
@@ -57,7 +52,7 @@ a:hover {
 }
 .my-banner h1 {
     position: relative;
-    top: -8em;
+    top: -9em;
     text-align: left;
 }
 .my-banner h3 {
@@ -74,6 +69,13 @@ a:hover {
     z-index: 1;
     opacity: 0.6;
 }
+footer {
+  padding-top: 2em;
+  clear: both;
+}
+
+
+
 
 
 
