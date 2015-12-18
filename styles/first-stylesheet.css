@@ -5,16 +5,16 @@ h1 {
 }
 h2 {
   font-family: 'Droid Sans', sans-serif;
-  color: #854E2C;
+  color: #d29b78;
 }
 h3 {
   text-align: center;
   font-family: 'Droid Sans', sans-serif;
-  color: #663827;
+  color: #cd917b;
 }
 h4 {
   font-family: 'Droid Sans', sans-serif;
-  color: #994C29;
+  color: #d78a67;
 }
 img {
   width: 60%;
@@ -22,17 +22,17 @@ img {
   margin: auto;  
 } 
 figcaption {
-  color: #854E2C;
+  color: #d39c7a;
   text-align: left;
 }
 body {
   width: 60%;
   margin: auto;
   text-indent: 25px;
-  background-color: #DB8E51;
+  background-color: #140b04;
 }
 p {
-  color: #663827;
+  color: #cd917b;
   font-family: 'Droid Sans', sans-serif;
   font-size: 18px;
 }
@@ -40,10 +40,10 @@ body a {
   padding-top: 2em;
 }
 a:visited {
-    color: #854E2C;
+    color: #d39c7a;
 }
 a:hover {
-    color: #A6713D;
+    color: #c49260;
 }
 .my-banner {
     position: relative;
